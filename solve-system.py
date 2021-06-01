@@ -130,6 +130,7 @@ try:
     f.close()
 except Exception as E:
     print(E)
+    n = 3
     A = [
     [10,2,2],
     [1,10,2],
